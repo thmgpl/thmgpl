@@ -10,6 +10,7 @@ A home lab on Proxmox VE and OPNsense, with notes on how it's set up and what we
 
 **Projects**
 - [homelab](https://github.com/thmgpl/homelab) – network design, hardening and write-ups
+- thmg AQ‑1 Air Sensor
 
 **Outside the lab:** ESP32 development, 3D-printed hardware, battery pack and electronics repair
 
